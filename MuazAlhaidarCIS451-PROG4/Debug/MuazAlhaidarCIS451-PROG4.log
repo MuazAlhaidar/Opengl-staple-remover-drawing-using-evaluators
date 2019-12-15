@@ -1,0 +1,10 @@
+﻿  Main.cpp
+C:\Users\omuna\Desktop\CIS451 Assignments\MuazAlhaidarCIS451-PROG4\Main.cpp(28,1): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\omuna\Desktop\CIS451 Assignments\MuazAlhaidarCIS451-PROG4\Main.cpp(48,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omuna\Desktop\CIS451 Assignments\MuazAlhaidarCIS451-PROG4\Main.cpp(57,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omuna\Desktop\CIS451 Assignments\MuazAlhaidarCIS451-PROG4\Main.cpp(66,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omuna\Desktop\CIS451 Assignments\MuazAlhaidarCIS451-PROG4\Main.cpp(75,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omuna\Desktop\CIS451 Assignments\MuazAlhaidarCIS451-PROG4\Main.cpp(84,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omuna\Desktop\CIS451 Assignments\MuazAlhaidarCIS451-PROG4\Main.cpp(93,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\omuna\Desktop\CIS451 Assignments\MuazAlhaidarCIS451-PROG4\Main.cpp(102,28): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  MuazAlhaidarCIS451-PROG4.vcxproj -> C:\Users\omuna\Desktop\CIS451 Assignments\MuazAlhaidarCIS451-PROG4\Debug\MuazAlhaidarCIS451-PROG4.exe
